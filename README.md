@@ -1,0 +1,1 @@
+# faktoryel_hesabi.c
